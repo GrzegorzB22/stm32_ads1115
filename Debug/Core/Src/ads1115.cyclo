@@ -1,0 +1,7 @@
+../Core/Src/ads1115.c:20:13:ADS_init	3
+../Core/Src/ads1115.c:45:6:ADS_startInterrupt	1
+../Core/Src/ads1115.c:53:6:ADS_startSingle	1
+../Core/Src/ads1115.c:60:6:ADS_startContinuous	1
+../Core/Src/ads1115.c:67:9:ADS_read	1
+../Core/Src/ads1115.c:77:6:ADS_busy	2
+../Core/Src/ads1115.c:90:7:ADS_getLSB	6
